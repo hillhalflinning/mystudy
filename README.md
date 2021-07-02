@@ -1,2 +1,2 @@
-# mystudy
-this is my study project
+## welcome to my study projects
+
